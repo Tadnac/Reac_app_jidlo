@@ -1,6 +1,6 @@
 Tato aplikace slouží jako ukázkový projekt, který simuluje aplikaci pro objednání jídla - celkem je na výběr ze 4 jídel.
 
-Po vybrání jídla se jídlo přiřadí do košíku (zvyšuje se počet položek v košíku) a následně po inicializaci tlačítka "Košík" lze zobrazit vybraná jída a následně upravit jejich počet. Košík zobrazuje i celkovou cenu objednávky.
+Po vybrání jídla se jídlo přiřadí do košíku (zvyšuje se počet položek v košíku) a následně po inicializaci tlačítka "Košík" lze zobrazit vybraná jídla a následně upravit jejich počet. Košík zobrazuje i celkovou cenu objednávky.
 
 Níže ukázky vzhledu aplikace.
 
