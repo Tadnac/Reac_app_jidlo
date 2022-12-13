@@ -5,7 +5,9 @@ Po vybrání jídla se jídlo přiřadí do košíku (zvyšuje se počet polože
 Níže ukázky vzhledu aplikace.
 
 Úvodní stránka aplikace
-![ukazka_1](https://user-images.githubusercontent.com/106878089/207424767-e632efc2-f7a8-491d-9219-1e19b72d984d.png)
+
+![ukazka_1](https://user-images.githubusercontent.com/106878089/207429792-fb080d9e-c49f-492c-8378-5697b657f34a.png)
 
 Zobrazení funkcionality košíku
+
 ![ukazka_2](https://user-images.githubusercontent.com/106878089/207424779-2c0d5d10-fd73-458a-9d6e-feeb8e569fcc.png)
